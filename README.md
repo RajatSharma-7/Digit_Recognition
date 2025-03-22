@@ -2,7 +2,7 @@
 
 This project is a Handwritten Digit Recognition system built using Deep Learning. The application allows users to draw digits on a screen, and a trained neural network model predicts the digit. The project is implemented using Python, Pygame, OpenCV, and TensorFlow/Keras.
 
-Features
+**Features**
 
 User can draw a digit on the screen using the mouse.
 
@@ -14,7 +14,7 @@ Graphical User Interface (GUI) built using Pygame.
 
 Supports clearing the screen for new input.
 
-Technologies Used
+**Technologies Used**
 
 Python (Programming Language)
 
